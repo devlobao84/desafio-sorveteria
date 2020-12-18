@@ -1,6 +1,6 @@
 # desafio-sorveteria
 
-#Desafio proposto no curso Fullstack. 
+# Desafio proposto no curso Fullstack. 
 
 ## Enunciado:
 
